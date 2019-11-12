@@ -1,0 +1,218 @@
+.navbar-inverse{
+	 background-color: white;
+	 border-color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	 color:black;
+	 font-weight:bold;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color:#f4623a;
+}
+
+.navbar-inverse .navbar-nav li>a{
+    color: black;
+	font-weight:bold;
+}
+
+.navbar-inverse .navbar-nav li>a:hover {
+	color:#f4623a;
+}
+
+
+
+
+.content{
+	background-image:url(a1.jpg);
+	height:100%;		
+}
+
+.text{
+	color:white;
+	font-size:50px;
+	margin:150px 0 10px 0;
+}
+
+.hra>hr{
+	width: 50px;
+	margin: 30px auto;
+	color:#f4623a;
+	border:2px solid #f4623a;
+}
+
+.text1{
+	font-size: 18px;
+	color: #9e9e9e;
+}
+
+.content .btn{
+	font-size:20px;
+	border-radius:50px;
+	padding:15px 30px;
+	margin-top:40px;
+}
+
+
+
+.need{
+	background-color:#f4623a;
+	padding:100px 30px;
+}
+
+.a1>hr{
+	width:80px;
+	margin:20px auto;
+	color:green;
+	border:2px solid #f4623a;
+}
+
+.text2{
+	color:white;
+	font-size:40px;	
+}
+
+.text3{
+	font-size: 18px;
+	color: #f9b09c;	
+}
+
+
+
+
+.text7{
+	color:black;
+	font-size:30px;
+	margin-top:100px;
+}
+
+.Sturdy{
+	color:#f4623a
+}
+
+.at {
+	padding:60px;
+}
+
+.a{
+	font-size:21px;
+	font-weight:bold;
+}
+
+
+
+
+
+.category{
+	width:100%;
+	height: 100%;
+	background-color:rgba(244, 98, 58, 0.9);
+	position:absolute;
+	left:0;
+	top:0;
+	opacity: 0;
+	font-size:20px;
+	text-align:center;
+	color:white;
+	transition:0.5s
+}
+
+.foto:hover>.category{
+	opacity: 1;	
+}
+
+.f1{
+	margin-top: 100px;
+	color: rgb(248, 182, 146);
+	font-size: 15px;	
+}
+
+.f2{
+	color: white;
+	font-size: 20px;
+	margin:0;
+}
+
+.a8{
+	box-shadow: none;
+	background-color:transparent;
+	border:none
+}
+
+.foto{
+	padding:0;
+}
+
+
+
+
+
+.need1{
+	background-color:#343a40;
+	width:100%;
+	float:left;
+	clear:both;
+	text-align:center;
+	color:white;
+	padding:100px 30px;
+}
+
+.text33{
+	color:white;
+	font-size:30px;
+	text-align:center;	
+}
+
+.btn{
+	font-size:15px;
+	font-weight:bold;
+	border-radius:50px;
+	padding:15px 30px;
+	margin-top:10;
+}
+
+
+
+.let{
+	clear:both;
+	padding:100px 30px;
+}
+
+.text-5{
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+}
+
+.text5{
+	color:#6c757d;
+	font-size:21px;		
+}
+
+hr{
+	width:70px;
+	margin:20px auto;
+	clear: both;
+	color:#f4623a;
+	border:2px solid #f4623a;
+}
+
+.fon1 .fas{
+	font-size:40px;	
+	margin-top:50px;
+}
+
+
+.com>a{
+	color:#f4623a;
+	font-size:17px;
+}
+
+.nambr{
+	color:#f4623a;
+	font-size:15px;	
+}
+
+
+
